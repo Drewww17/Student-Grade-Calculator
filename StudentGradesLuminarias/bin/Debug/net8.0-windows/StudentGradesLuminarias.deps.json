@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "StudentGradesLuminarias/1.0.0": {
+        "runtime": {
+          "StudentGradesLuminarias.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "StudentGradesLuminarias/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

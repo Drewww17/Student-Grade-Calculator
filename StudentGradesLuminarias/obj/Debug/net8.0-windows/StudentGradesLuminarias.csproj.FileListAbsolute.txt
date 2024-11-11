@@ -1,0 +1,16 @@
+C:\Users\Tobias Laptop\source\repos\StudentGradesLuminarias\StudentGradesLuminarias\bin\Debug\net8.0-windows\StudentGradesLuminarias.exe
+C:\Users\Tobias Laptop\source\repos\StudentGradesLuminarias\StudentGradesLuminarias\bin\Debug\net8.0-windows\StudentGradesLuminarias.deps.json
+C:\Users\Tobias Laptop\source\repos\StudentGradesLuminarias\StudentGradesLuminarias\bin\Debug\net8.0-windows\StudentGradesLuminarias.runtimeconfig.json
+C:\Users\Tobias Laptop\source\repos\StudentGradesLuminarias\StudentGradesLuminarias\bin\Debug\net8.0-windows\StudentGradesLuminarias.dll
+C:\Users\Tobias Laptop\source\repos\StudentGradesLuminarias\StudentGradesLuminarias\bin\Debug\net8.0-windows\StudentGradesLuminarias.pdb
+C:\Users\Tobias Laptop\source\repos\StudentGradesLuminarias\StudentGradesLuminarias\obj\Debug\net8.0-windows\StudentGradesLuminarias.Form1.resources
+C:\Users\Tobias Laptop\source\repos\StudentGradesLuminarias\StudentGradesLuminarias\obj\Debug\net8.0-windows\StudentGradesLuminarias.csproj.GenerateResource.cache
+C:\Users\Tobias Laptop\source\repos\StudentGradesLuminarias\StudentGradesLuminarias\obj\Debug\net8.0-windows\StudentGradesLuminarias.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tobias Laptop\source\repos\StudentGradesLuminarias\StudentGradesLuminarias\obj\Debug\net8.0-windows\StudentGradesLuminarias.AssemblyInfoInputs.cache
+C:\Users\Tobias Laptop\source\repos\StudentGradesLuminarias\StudentGradesLuminarias\obj\Debug\net8.0-windows\StudentGradesLuminarias.AssemblyInfo.cs
+C:\Users\Tobias Laptop\source\repos\StudentGradesLuminarias\StudentGradesLuminarias\obj\Debug\net8.0-windows\StudentGradesLuminarias.csproj.CoreCompileInputs.cache
+C:\Users\Tobias Laptop\source\repos\StudentGradesLuminarias\StudentGradesLuminarias\obj\Debug\net8.0-windows\StudentGradesLuminarias.dll
+C:\Users\Tobias Laptop\source\repos\StudentGradesLuminarias\StudentGradesLuminarias\obj\Debug\net8.0-windows\refint\StudentGradesLuminarias.dll
+C:\Users\Tobias Laptop\source\repos\StudentGradesLuminarias\StudentGradesLuminarias\obj\Debug\net8.0-windows\StudentGradesLuminarias.pdb
+C:\Users\Tobias Laptop\source\repos\StudentGradesLuminarias\StudentGradesLuminarias\obj\Debug\net8.0-windows\StudentGradesLuminarias.genruntimeconfig.cache
+C:\Users\Tobias Laptop\source\repos\StudentGradesLuminarias\StudentGradesLuminarias\obj\Debug\net8.0-windows\ref\StudentGradesLuminarias.dll
